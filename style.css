@@ -1,6 +1,17 @@
 body{
-    background-color: red;
+    background-color: yellow;
 }
 h1{
-    color: white;
+    color: orangered;
+}
+div{
+    width : 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rect{
+    width: 200px;
+    height: 100px;
+    background-color: pink;
 }
